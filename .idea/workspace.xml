@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49413931-a30e-4ca0-9860-17190696ecd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SudokuRevised.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution1.sud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution2.sud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution3.sud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/BadFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/BoardReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/BoardSolvedCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/BoardSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/BoardSolverSecondTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/BoardSolverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/DigitSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/General.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/MyBoardSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/MyBoardSolverMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/MyBoardSolverRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/MyBoardSolverRecursiveMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudokutest/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudokutest/BoardReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudokutest/BoardSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudokutest/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudokutest/SudokuTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1.sud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.sud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3.sud" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2iKQbnKUmBWiuT4Wbov3prGMr8N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "build.tools",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sudoku" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BoardSolverSecondTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SudokuRevised" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SudokuTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sudokutest.SudokuTester" />
+      <module name="SudokuRevised" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sudokutest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sudoku.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sudoku.Main" />
+      <module name="SudokuRevised" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sudoku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoardSolverSecondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SudokuRevised" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sudoku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sudoku" />
+      <option name="MAIN_CLASS_NAME" value="sudoku.BoardSolverSecondTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoardSolverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SudokuRevised" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sudoku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sudoku" />
+      <option name="MAIN_CLASS_NAME" value="sudoku.BoardSolverTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BoardSolverSecondTest" />
+        <item itemvalue="JUnit.BoardSolverTest" />
+        <item itemvalue="Application.SudokuTester" />
+        <item itemvalue="Application.sudoku.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49413931-a30e-4ca0-9860-17190696ecd6" name="Changes" comment="" />
+      <created>1719236872243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719236872243</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
