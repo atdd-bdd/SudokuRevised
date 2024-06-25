@@ -64,7 +64,6 @@ public class Position
 				count++;
 				}
 			}
-
 		}
 
 	void setInitialValue(int value)

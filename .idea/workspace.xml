@@ -4,40 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49413931-a30e-4ca0-9860-17190696ecd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SudokuRevised.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution1.sud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution2.sud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution3.sud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/BadFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/BoardReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/BoardSolvedCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/BoardSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/BoardSolverSecondTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/BoardSolverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/DigitSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/General.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/MyBoardSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/MyBoardSolverMinimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/MyBoardSolverRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/MyBoardSolverRecursiveMinimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudokutest/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudokutest/BoardReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudokutest/BoardSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudokutest/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudokutest/SudokuTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.sud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.sud" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3.sud" afterDir="false" />
+    <list default="true" id="49413931-a30e-4ca0-9860-17190696ecd6" name="Changes" comment="Original">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudokutest/SudokuTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudokutest/SudokuTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,9 +136,31 @@
       <option name="presentableId" value="Default" />
       <updated>1719236872243</updated>
     </task>
+    <task id="LOCAL-00001" summary="Original">
+      <option name="closed" value="true" />
+      <created>1719273720461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719273720461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Original" />
+    <option name="LAST_COMMIT_MESSAGE" value="Original" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sudoku/MyBoardSolverRecursive.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

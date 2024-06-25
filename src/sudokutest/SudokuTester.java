@@ -20,7 +20,7 @@ public class SudokuTester
 //			System.out
 //					.println("You must specify a class, a board test file, and a board solution file");
 //			System.exit(0);
-//
+//          }
 			args = new String[] {"sudoku.MyBoardSolver", "test1.sud", "solution1.sud",
 					"test2.sud", "solution2.sud",
 					"test3.sud", "solution3.sud"};
